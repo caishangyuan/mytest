@@ -1,0 +1,1 @@
+<?php {"pri":"id","0":"name","1":"true_name","2":"pass","3":"email","4":"stand","5":"sex","6":"birthday","7":"birth_add","8":"live_add","9":"hobby","10":"marriage","11":"pal_aim","12":"reg_time","13":"last_time","14":"last_ip","15":"grade_num","16":"face_path","17":"sign","18":"state"}yes

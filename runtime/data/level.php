@@ -1,0 +1,1 @@
+<?php {"pri":"id","0":"name","1":"mini","2":"maxi"}yes

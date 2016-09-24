@@ -1,0 +1,1 @@
+<?php {"pri":"id","0":"dst_id","1":"src_id","2":"content","3":"ptime","4":"dst_ope","5":"src_ope","6":"is_read","7":"ip","8":"sms_sort"}yes

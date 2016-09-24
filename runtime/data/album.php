@@ -1,0 +1,1 @@
+<?php {"pri":"id","0":"uid","1":"name","2":"cover_path","3":"authority","4":"ptime"}yes

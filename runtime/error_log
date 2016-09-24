@@ -1,0 +1,512 @@
+[07-Jul-2016 14:05:22 PRC] PHP Fatal error:  Call to a member function prepare() on a non-object in D:\mybbs\brophp\bases\dpdo.class.php on line 144
+[07-Jul-2016 14:07:37 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[07-Jul-2016 14:07:40 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[07-Jul-2016 14:07:53 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[07-Jul-2016 14:07:53 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[07-Jul-2016 14:07:53 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[07-Jul-2016 14:07:53 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[07-Jul-2016 14:07:53 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[07-Jul-2016 14:07:53 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[07-Jul-2016 14:07:58 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[07-Jul-2016 14:08:00 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[07-Jul-2016 14:08:00 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[07-Jul-2016 14:08:00 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[07-Jul-2016 14:08:00 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[07-Jul-2016 14:08:00 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[07-Jul-2016 14:08:00 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[07-Jul-2016 14:08:09 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[07-Jul-2016 14:08:12 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[07-Jul-2016 14:08:12 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[07-Jul-2016 14:08:12 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[07-Jul-2016 14:08:12 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[07-Jul-2016 14:08:12 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[07-Jul-2016 14:08:31 PRC] PHP Notice:  Undefined offset: 1 in D:\mybbs\brophp\bases\prourl.class.php on line 32
+[07-Jul-2016 14:08:37 PRC] PHP Notice:  Undefined offset: 1 in D:\mybbs\brophp\bases\prourl.class.php on line 32
+[07-Jul-2016 14:22:28 PRC] PHP Notice:  Undefined offset: 1 in D:\mybbs\brophp\bases\prourl.class.php on line 32
+[07-Jul-2016 14:22:33 PRC] PHP Notice:  Undefined offset: 1 in D:\mybbs\brophp\bases\prourl.class.php on line 32
+[07-Jul-2016 14:22:41 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[07-Jul-2016 14:22:41 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[07-Jul-2016 19:42:15 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[07-Jul-2016 19:42:15 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Jul-2016 13:20:01 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[12-Jul-2016 13:20:01 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[12-Jul-2016 13:20:01 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[12-Jul-2016 13:20:01 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[12-Jul-2016 13:20:01 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[12-Jul-2016 13:20:02 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[12-Jul-2016 13:20:27 PRC] PHP Notice:  Undefined offset: 1 in D:\mybbs\brophp\bases\prourl.class.php on line 32
+[12-Jul-2016 13:22:14 PRC] PHP Notice:  Undefined offset: 1 in D:\mybbs\brophp\bases\prourl.class.php on line 32
+[12-Jul-2016 13:24:26 PRC] PHP Notice:  Undefined offset: 1 in D:\mybbs\brophp\bases\prourl.class.php on line 32
+[12-Jul-2016 13:26:05 PRC] PHP Notice:  Undefined offset: 1 in D:\mybbs\brophp\bases\prourl.class.php on line 32
+[12-Jul-2016 13:26:46 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Jul-2016 13:26:46 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Jul-2016 15:35:41 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Jul-2016 15:35:41 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Jul-2016 15:35:43 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Jul-2016 15:35:43 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Jul-2016 15:35:45 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Jul-2016 15:35:45 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Jul-2016 15:35:51 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Jul-2016 15:35:51 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Jul-2016 15:47:17 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Jul-2016 15:47:17 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Jul-2016 15:47:28 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Jul-2016 15:47:28 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Jul-2016 15:47:45 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Jul-2016 15:47:45 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Jul-2016 15:47:46 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Jul-2016 15:47:46 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Jul-2016 20:21:28 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Jul-2016 20:21:28 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Jul-2016 20:30:55 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Jul-2016 20:30:55 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Jul-2016 22:06:16 PRC] PHP Strict Standards:  Declaration of SetAction::clear_cache() should be compatible with Smarty::clear_cache($tpl_file = NULL, $cache_id = NULL, $compile_id = NULL, $exp_time = NULL) in D:\mybbs\runtime\controls\admin_php\setaction.class.php on line 12
+[12-Jul-2016 22:06:17 PRC] PHP Notice:  Use of undefined constant LISTSIZE - assumed 'LISTSIZE' in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 170
+[12-Jul-2016 22:06:17 PRC] PHP Notice:  Use of undefined constant COMMENTSIZE - assumed 'COMMENTSIZE' in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 171
+[12-Jul-2016 22:06:47 PRC] PHP Strict Standards:  Declaration of SetAction::clear_cache() should be compatible with Smarty::clear_cache($tpl_file = NULL, $cache_id = NULL, $compile_id = NULL, $exp_time = NULL) in D:\mybbs\runtime\controls\admin_php\setaction.class.php on line 12
+[12-Jul-2016 22:06:47 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 325 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:47 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:48 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 327 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:48 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:49 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 329 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:49 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:49 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 331 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:49 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:49 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 333 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:49 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:50 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 335 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:50 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:50 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 337 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:50 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:51 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 339 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:51 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:51 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 341 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:51 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:51 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 343 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:51 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:52 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 345 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:52 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:52 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 347 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:52 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:52 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 349 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:52 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:52 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 351 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:52 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:53 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 353 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:53 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:53 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 355 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:53 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:54 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 357 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:54 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:54 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 359 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:54 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:54 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 361 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[12-Jul-2016 22:06:54 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[12-Jul-2016 22:06:54 PRC] PHP Strict Standards:  Declaration of SetAction::clear_cache() should be compatible with Smarty::clear_cache($tpl_file = NULL, $cache_id = NULL, $compile_id = NULL, $exp_time = NULL) in D:\mybbs\runtime\controls\admin_php\setaction.class.php on line 12
+[12-Jul-2016 22:06:54 PRC] PHP Notice:  Use of undefined constant LISTSIZE - assumed 'LISTSIZE' in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 170
+[12-Jul-2016 22:06:54 PRC] PHP Notice:  Use of undefined constant COMMENTSIZE - assumed 'COMMENTSIZE' in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 171
+[13-Jul-2016 12:54:10 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[13-Jul-2016 12:54:10 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[13-Jul-2016 12:58:01 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[13-Jul-2016 12:58:09 PRC] PHP Strict Standards:  Declaration of SetAction::clear_cache() should be compatible with Smarty::clear_cache($tpl_file = NULL, $cache_id = NULL, $compile_id = NULL, $exp_time = NULL) in D:\mybbs\runtime\controls\admin_php\setaction.class.php on line 12
+[13-Jul-2016 13:24:07 PRC] PHP Strict Standards:  Declaration of SetAction::clear_cache() should be compatible with Smarty::clear_cache($tpl_file = NULL, $cache_id = NULL, $compile_id = NULL, $exp_time = NULL) in D:\mybbs\runtime\controls\admin_php\setaction.class.php on line 12
+[13-Jul-2016 13:24:08 PRC] PHP Notice:  Use of undefined constant LISTSIZE - assumed 'LISTSIZE' in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 170
+[13-Jul-2016 13:24:08 PRC] PHP Notice:  Use of undefined constant COMMENTSIZE - assumed 'COMMENTSIZE' in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 171
+[13-Jul-2016 13:24:12 PRC] PHP Strict Standards:  Declaration of SetAction::clear_cache() should be compatible with Smarty::clear_cache($tpl_file = NULL, $cache_id = NULL, $compile_id = NULL, $exp_time = NULL) in D:\mybbs\runtime\controls\admin_php\setaction.class.php on line 12
+[13-Jul-2016 13:24:16 PRC] PHP Strict Standards:  Declaration of SetAction::clear_cache() should be compatible with Smarty::clear_cache($tpl_file = NULL, $cache_id = NULL, $compile_id = NULL, $exp_time = NULL) in D:\mybbs\runtime\controls\admin_php\setaction.class.php on line 12
+[13-Jul-2016 13:24:18 PRC] PHP Strict Standards:  Declaration of SetAction::clear_cache() should be compatible with Smarty::clear_cache($tpl_file = NULL, $cache_id = NULL, $compile_id = NULL, $exp_time = NULL) in D:\mybbs\runtime\controls\admin_php\setaction.class.php on line 12
+[13-Jul-2016 13:24:18 PRC] PHP Strict Standards:  Declaration of SetAction::clear_cache() should be compatible with Smarty::clear_cache($tpl_file = NULL, $cache_id = NULL, $compile_id = NULL, $exp_time = NULL) in D:\mybbs\runtime\controls\admin_php\setaction.class.php on line 12
+[13-Jul-2016 13:24:19 PRC] PHP Notice:  Use of undefined constant LISTSIZE - assumed 'LISTSIZE' in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 170
+[13-Jul-2016 13:24:19 PRC] PHP Notice:  Use of undefined constant COMMENTSIZE - assumed 'COMMENTSIZE' in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 171
+[13-Jul-2016 13:24:20 PRC] PHP Strict Standards:  Declaration of SetAction::clear_cache() should be compatible with Smarty::clear_cache($tpl_file = NULL, $cache_id = NULL, $compile_id = NULL, $exp_time = NULL) in D:\mybbs\runtime\controls\admin_php\setaction.class.php on line 12
+[13-Jul-2016 13:24:20 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 325 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:20 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:20 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 327 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:20 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:21 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 329 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:21 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:21 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 331 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:21 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:21 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 333 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:21 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:21 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 335 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:21 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:22 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 337 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:22 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:22 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 339 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:22 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:22 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 341 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:22 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:22 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 343 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:22 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:22 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 345 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:22 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:23 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 347 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:23 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:23 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 349 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:23 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:23 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 351 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:23 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:23 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 353 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:23 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:24 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 355 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:24 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:24 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 357 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:24 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:24 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 359 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:24 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:24 PRC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 361 and defined in D:\mybbs\brophp\bases\dpdo.class.php on line 44
+[13-Jul-2016 13:24:24 PRC] PHP Notice:  Undefined variable: method in D:\mybbs\brophp\bases\dpdo.class.php on line 49
+[13-Jul-2016 13:24:24 PRC] PHP Strict Standards:  Declaration of SetAction::clear_cache() should be compatible with Smarty::clear_cache($tpl_file = NULL, $cache_id = NULL, $compile_id = NULL, $exp_time = NULL) in D:\mybbs\runtime\controls\admin_php\setaction.class.php on line 12
+[13-Jul-2016 13:24:24 PRC] PHP Notice:  Use of undefined constant LISTSIZE - assumed 'LISTSIZE' in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 170
+[13-Jul-2016 13:24:24 PRC] PHP Notice:  Use of undefined constant COMMENTSIZE - assumed 'COMMENTSIZE' in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 171
+[13-Jul-2016 23:01:15 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[13-Jul-2016 23:01:15 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[13-Jul-2016 23:01:42 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[13-Jul-2016 23:01:42 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[14-Jul-2016 00:02:15 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[14-Jul-2016 00:02:15 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[14-Jul-2016 00:02:18 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[14-Jul-2016 00:02:18 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[14-Jul-2016 00:02:49 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[14-Jul-2016 00:02:49 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[14-Jul-2016 00:03:09 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[14-Jul-2016 00:03:09 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[14-Jul-2016 00:03:51 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[14-Jul-2016 00:04:01 PRC] PHP Strict Standards:  Declaration of SetAction::clear_cache() should be compatible with Smarty::clear_cache($tpl_file = NULL, $cache_id = NULL, $compile_id = NULL, $exp_time = NULL) in D:\mybbs\runtime\controls\admin_php\setaction.class.php on line 12
+[14-Jul-2016 00:04:01 PRC] PHP Notice:  Use of undefined constant LISTSIZE - assumed 'LISTSIZE' in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 170
+[14-Jul-2016 00:04:01 PRC] PHP Notice:  Use of undefined constant COMMENTSIZE - assumed 'COMMENTSIZE' in D:\mybbs\runtime\models\admin_php\setmodel.class.php on line 171
+[15-Jul-2016 13:07:56 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[15-Jul-2016 13:07:56 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[15-Jul-2016 14:05:09 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 14:07:20 PRC] PHP Notice:  Undefined index: last_post_time in D:\mybbs\runtime\controls\index_php\subjectaction.class.php on line 121
+[15-Jul-2016 14:07:20 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[15-Jul-2016 14:07:24 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[15-Jul-2016 14:07:24 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[15-Jul-2016 14:07:24 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 14:07:53 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 14:18:28 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 14:23:12 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[15-Jul-2016 14:23:12 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[15-Jul-2016 14:23:12 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[15-Jul-2016 14:23:12 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[15-Jul-2016 14:23:12 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[15-Jul-2016 14:23:31 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[15-Jul-2016 14:23:31 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[15-Jul-2016 14:23:31 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[15-Jul-2016 14:23:31 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[15-Jul-2016 14:23:31 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[15-Jul-2016 14:24:12 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[15-Jul-2016 14:24:12 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[15-Jul-2016 14:24:12 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[15-Jul-2016 14:24:12 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[15-Jul-2016 14:24:12 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[15-Jul-2016 14:24:14 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[15-Jul-2016 14:24:14 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[15-Jul-2016 14:24:14 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[15-Jul-2016 14:24:14 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[15-Jul-2016 14:24:14 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[15-Jul-2016 14:24:18 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 14:24:21 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[15-Jul-2016 14:24:21 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 14:24:26 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 14:24:26 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[15-Jul-2016 14:24:27 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[15-Jul-2016 14:24:27 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[15-Jul-2016 14:24:27 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[15-Jul-2016 14:24:27 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[15-Jul-2016 14:24:27 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[15-Jul-2016 14:24:39 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[15-Jul-2016 14:24:39 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[15-Jul-2016 14:24:39 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[15-Jul-2016 14:24:39 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[15-Jul-2016 14:24:39 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[15-Jul-2016 14:24:39 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[15-Jul-2016 14:50:51 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[15-Jul-2016 15:51:05 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[15-Jul-2016 16:31:07 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[15-Jul-2016 16:50:30 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[15-Jul-2016 16:58:07 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[15-Jul-2016 16:58:07 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 16:58:07 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[15-Jul-2016 16:58:17 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[15-Jul-2016 17:22:24 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[15-Jul-2016 17:22:54 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[15-Jul-2016 17:22:54 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[15-Jul-2016 17:23:18 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[15-Jul-2016 17:23:18 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[15-Jul-2016 17:24:40 PRC] PHP Notice:  Undefined index: master in D:\mybbs\runtime\controls\admin_php\boardaction.class.php on line 42
+[15-Jul-2016 17:25:07 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 17:48:02 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 17:48:16 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[15-Jul-2016 17:48:16 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 17:48:39 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[15-Jul-2016 17:48:39 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 17:48:43 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[15-Jul-2016 17:48:43 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 17:49:03 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 17:49:44 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 17:49:48 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[15-Jul-2016 17:49:48 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 17:49:48 PRC] PHP Notice:  Undefined variable: order_url in D:\mybbs\runtime\controls\index_php\subjectaction.class.php on line 81
+[15-Jul-2016 17:49:48 PRC] PHP Notice:  Undefined index: last_comm_name in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 58
+[15-Jul-2016 17:49:48 PRC] PHP Notice:  Undefined index: last_comm_id in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 59
+[15-Jul-2016 17:49:48 PRC] PHP Notice:  Undefined index: last_comm_time in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 60
+[15-Jul-2016 17:50:00 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[15-Jul-2016 17:50:00 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[15-Jul-2016 17:50:00 PRC] PHP Notice:  Undefined variable: order_url in D:\mybbs\runtime\controls\index_php\subjectaction.class.php on line 81
+[15-Jul-2016 17:50:00 PRC] PHP Notice:  Undefined index: last_comm_name in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 58
+[15-Jul-2016 17:50:00 PRC] PHP Notice:  Undefined index: last_comm_id in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 59
+[15-Jul-2016 17:50:00 PRC] PHP Notice:  Undefined index: last_comm_time in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 60
+[16-Jul-2016 09:26:37 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[16-Jul-2016 09:26:37 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[16-Jul-2016 09:26:37 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[16-Jul-2016 09:26:37 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[16-Jul-2016 09:26:37 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[16-Jul-2016 09:26:37 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[16-Jul-2016 09:29:19 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[16-Jul-2016 09:29:19 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[16-Jul-2016 09:29:19 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[16-Jul-2016 09:29:19 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[16-Jul-2016 09:30:00 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[16-Jul-2016 09:30:00 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[16-Jul-2016 09:30:00 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[16-Jul-2016 09:30:00 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[16-Jul-2016 09:30:00 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[16-Jul-2016 09:30:00 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[20-Jul-2016 15:40:10 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[20-Jul-2016 15:40:10 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[20-Jul-2016 15:40:10 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[20-Jul-2016 15:40:10 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[20-Jul-2016 15:40:10 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[20-Jul-2016 15:40:11 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[20-Jul-2016 18:30:49 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[20-Jul-2016 18:30:49 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[20-Jul-2016 18:30:49 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[20-Jul-2016 18:30:49 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[20-Jul-2016 18:31:53 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[20-Jul-2016 18:32:04 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[20-Jul-2016 18:32:16 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[20-Jul-2016 18:32:43 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[20-Jul-2016 18:32:43 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[20-Jul-2016 18:32:43 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[20-Jul-2016 18:32:43 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[20-Jul-2016 18:32:43 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[20-Jul-2016 18:32:44 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[20-Jul-2016 18:32:44 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[20-Jul-2016 18:32:44 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[20-Jul-2016 18:32:44 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[20-Jul-2016 18:32:44 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[20-Jul-2016 18:32:44 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[20-Jul-2016 18:32:58 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[20-Jul-2016 18:32:59 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[20-Jul-2016 18:32:59 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[20-Jul-2016 18:32:59 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[20-Jul-2016 18:32:59 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[20-Jul-2016 18:32:59 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[20-Jul-2016 18:36:23 PRC] PHP Notice:  Undefined index: last_post_time in D:\mybbs\runtime\controls\index_php\subjectaction.class.php on line 121
+[20-Jul-2016 18:36:23 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[20-Jul-2016 18:36:27 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[20-Jul-2016 18:36:27 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[20-Jul-2016 18:36:27 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\brophp\classes\page.class.php on line 86
+[20-Jul-2016 18:36:39 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[20-Jul-2016 18:37:00 PRC] PHP Warning:  Missing argument 2 for LogModel::loglist(), called in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 27 and defined in D:\mybbs\runtime\models\space_php\logmodel.class.php on line 48
+[20-Jul-2016 18:37:00 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\classes\ajaxpage.class.php on line 86
+[20-Jul-2016 18:37:00 PRC] PHP Warning:  Missing argument 2 for FriendModel::friend_list(), called in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 33 and defined in D:\mybbs\runtime\models\space_php\friendmodel.class.php on line 49
+[20-Jul-2016 18:37:00 PRC] PHP Notice:  Undefined index: fid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 41
+[20-Jul-2016 18:37:01 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[20-Jul-2016 18:37:01 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[20-Jul-2016 18:37:01 PRC] PHP Warning:  Missing argument 2 for MessageModel::message_index(), called in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 66 and defined in D:\mybbs\runtime\models\space_php\messagemodel.class.php on line 20
+[20-Jul-2016 18:37:01 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\classes\ajaxpage.class.php on line 86
+[20-Jul-2016 18:37:20 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[20-Jul-2016 18:37:20 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[20-Jul-2016 18:37:20 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[20-Jul-2016 18:37:20 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[20-Jul-2016 18:37:20 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[20-Jul-2016 18:37:41 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[20-Jul-2016 18:37:41 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[20-Jul-2016 18:37:43 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[20-Jul-2016 18:37:43 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[20-Jul-2016 18:37:43 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[20-Jul-2016 18:37:43 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[20-Jul-2016 18:37:43 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\common.class.php on line 19
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\common.class.php on line 24
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 21
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 23
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 29
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 25
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 52
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 54
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 56
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 58
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 60
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 62
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 27
+[20-Jul-2016 18:37:48 PRC] PHP Warning:  Missing argument 2 for LogModel::loglist(), called in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 27 and defined in D:\mybbs\runtime\models\space_php\logmodel.class.php on line 48
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 52
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 54
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 56
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 58
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 60
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 62
+[20-Jul-2016 18:37:48 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\classes\ajaxpage.class.php on line 86
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 33
+[20-Jul-2016 18:37:48 PRC] PHP Warning:  Missing argument 2 for FriendModel::friend_list(), called in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 33 and defined in D:\mybbs\runtime\models\space_php\friendmodel.class.php on line 49
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 52
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 54
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 56
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 58
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 60
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 62
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 37
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: fid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 41
+[20-Jul-2016 18:37:48 PRC] PHP Warning:  Missing argument 2 for LogModel::loglist(), called in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 27 and defined in D:\mybbs\runtime\models\space_php\logmodel.class.php on line 48
+[20-Jul-2016 18:37:48 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\classes\ajaxpage.class.php on line 86
+[20-Jul-2016 18:37:48 PRC] PHP Warning:  Missing argument 2 for FriendModel::friend_list(), called in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 33 and defined in D:\mybbs\runtime\models\space_php\friendmodel.class.php on line 49
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined index: fid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 41
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[20-Jul-2016 18:37:48 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[20-Jul-2016 18:37:48 PRC] PHP Warning:  Missing argument 2 for MessageModel::message_index(), called in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 66 and defined in D:\mybbs\runtime\models\space_php\messagemodel.class.php on line 20
+[20-Jul-2016 18:37:48 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\classes\ajaxpage.class.php on line 86
+[20-Jul-2016 18:37:52 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[20-Jul-2016 18:37:52 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[20-Jul-2016 18:37:52 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[20-Jul-2016 18:37:52 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[20-Jul-2016 18:37:52 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[24-Jul-2016 08:49:37 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[24-Jul-2016 08:49:38 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[24-Jul-2016 08:49:38 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[24-Jul-2016 08:49:38 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[24-Jul-2016 08:49:38 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[24-Jul-2016 08:49:39 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[24-Jul-2016 08:51:22 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[24-Jul-2016 08:51:22 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[24-Jul-2016 08:51:22 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[24-Jul-2016 08:51:22 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[24-Jul-2016 08:53:04 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[24-Jul-2016 08:53:04 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[24-Jul-2016 08:53:04 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[24-Jul-2016 08:53:04 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[24-Jul-2016 08:53:04 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[24-Jul-2016 08:53:05 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[24-Jul-2016 08:53:14 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[24-Jul-2016 08:53:15 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[24-Jul-2016 08:53:15 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[24-Jul-2016 08:53:15 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[24-Jul-2016 09:29:40 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[24-Jul-2016 09:29:40 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[24-Jul-2016 09:29:40 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[24-Jul-2016 09:29:40 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[24-Jul-2016 09:34:36 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[24-Jul-2016 09:34:36 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[24-Jul-2016 09:34:36 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[24-Jul-2016 09:34:36 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[24-Jul-2016 09:34:36 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[24-Jul-2016 09:34:37 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[24-Jul-2016 09:34:53 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\common.class.php on line 19
+[24-Jul-2016 09:34:53 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\space_php\bbsusermodel.class.php on line 195
+[24-Jul-2016 09:34:53 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\common.class.php on line 24
+[24-Jul-2016 09:34:53 PRC] PHP Notice:  Undefined index: user_info in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 17
+[24-Jul-2016 09:34:53 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 21
+[24-Jul-2016 09:34:53 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 23
+[24-Jul-2016 09:34:53 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 29
+[24-Jul-2016 09:34:53 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 25
+[24-Jul-2016 09:34:53 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 52
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 54
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 56
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 58
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 60
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 62
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 27
+[24-Jul-2016 09:34:54 PRC] PHP Warning:  Missing argument 2 for LogModel::loglist(), called in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 27 and defined in D:\mybbs\runtime\models\space_php\logmodel.class.php on line 48
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 52
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 54
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 56
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 58
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 60
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 62
+[24-Jul-2016 09:34:54 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\classes\ajaxpage.class.php on line 86
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 33
+[24-Jul-2016 09:34:54 PRC] PHP Warning:  Missing argument 2 for FriendModel::friend_list(), called in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 33 and defined in D:\mybbs\runtime\models\space_php\friendmodel.class.php on line 49
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 52
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 54
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 56
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 58
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 60
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 62
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 37
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined index: fid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 41
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[24-Jul-2016 09:34:54 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[24-Jul-2016 09:34:55 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\space_php\bbsusermodel.class.php on line 195
+[24-Jul-2016 09:34:55 PRC] PHP Warning:  Missing argument 2 for MessageModel::message_index(), called in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 66 and defined in D:\mybbs\runtime\models\space_php\messagemodel.class.php on line 20
+[24-Jul-2016 09:34:55 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\classes\ajaxpage.class.php on line 86
+[24-Jul-2016 09:34:55 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\space_php\bbsusermodel.class.php on line 195
+[24-Jul-2016 09:34:55 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 78
+[24-Jul-2016 09:45:02 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[24-Jul-2016 09:45:02 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\common.class.php on line 19
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\space_php\bbsusermodel.class.php on line 195
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\common.class.php on line 24
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: user_info in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 17
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 21
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 23
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 29
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 25
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 52
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 54
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 56
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 58
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 60
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 62
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 27
+[24-Jul-2016 09:45:09 PRC] PHP Warning:  Missing argument 2 for LogModel::loglist(), called in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 27 and defined in D:\mybbs\runtime\models\space_php\logmodel.class.php on line 48
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 52
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 54
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 56
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 58
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 60
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 62
+[24-Jul-2016 09:45:09 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\classes\ajaxpage.class.php on line 86
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 33
+[24-Jul-2016 09:45:09 PRC] PHP Warning:  Missing argument 2 for FriendModel::friend_list(), called in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 33 and defined in D:\mybbs\runtime\models\space_php\friendmodel.class.php on line 49
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 52
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 54
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 56
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 58
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 60
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\models\space_php\usermodel.class.php on line 62
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: uid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 37
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: fid in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 41
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[24-Jul-2016 09:45:09 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\space_php\bbsusermodel.class.php on line 195
+[24-Jul-2016 09:45:09 PRC] PHP Warning:  Missing argument 2 for MessageModel::message_index(), called in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 66 and defined in D:\mybbs\runtime\models\space_php\messagemodel.class.php on line 20
+[24-Jul-2016 09:45:09 PRC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in D:\mybbs\classes\ajaxpage.class.php on line 86
+[24-Jul-2016 09:45:10 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\space_php\bbsusermodel.class.php on line 195
+[24-Jul-2016 09:45:10 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\controls\space_php\indexaction.class.php on line 78
+[24-Jul-2016 09:45:15 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[24-Jul-2016 09:45:15 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[24-Jul-2016 09:45:15 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[24-Jul-2016 09:45:15 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[24-Jul-2016 09:45:15 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[24-Jul-2016 09:45:15 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
+[12-Sep-2016 13:29:12 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Sep-2016 13:29:12 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Sep-2016 13:29:28 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Sep-2016 13:29:28 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Sep-2016 13:29:39 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Sep-2016 13:29:39 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Sep-2016 13:29:40 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Sep-2016 13:29:40 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Sep-2016 13:29:42 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Sep-2016 13:29:42 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[12-Sep-2016 13:29:53 PRC] PHP Notice:  Undefined variable: ascii in D:\mybbs\brophp\classes\vcode.class.php on line 74
+[12-Sep-2016 13:29:53 PRC] PHP Notice:  Uninitialized string offset: 4 in D:\mybbs\brophp\classes\vcode.class.php on line 100
+[14-Sep-2016 11:03:00 PRC] PHP Notice:  Undefined index: home_login in D:\mybbs\runtime\models\index_php\usermodel.class.php on line 195
+[14-Sep-2016 11:03:00 PRC] PHP Strict Standards:  Declaration of SubjectModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\subjectmodel.class.php on line 273
+[14-Sep-2016 11:03:00 PRC] PHP Strict Standards:  Declaration of NewsModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\newsmodel.class.php on line 56
+[14-Sep-2016 11:03:00 PRC] PHP Strict Standards:  Declaration of LogModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\logmodel.class.php on line 19
+[14-Sep-2016 11:03:00 PRC] PHP Strict Standards:  Declaration of NoticeModel::top10() should be compatible with PubModel::top10($table, $where = Array) in D:\mybbs\runtime\models\index_php\noticemodel.class.php on line 60
+[14-Sep-2016 11:03:02 PRC] PHP Notice:  Undefined variable: zid in D:\mybbs\runtime\models\index_php\boardmodel.class.php on line 71
